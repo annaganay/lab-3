@@ -1,7 +1,7 @@
 import numpy as np
 from tkinter import *
 
-print('Введите ширину файла(в пиксилях):')
+print('Введите ширину файла в пиксилях(не меньше 600):')
 h = int(input())
 
 min = 600
